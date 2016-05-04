@@ -1,0 +1,47 @@
+%\part{Aspectos Gerais}
+
+\chapter[Proposta Inicial]{Proposta Inicial}
+
+\section{Contextualização}
+	A qualidade na produção de software é uma área muito ampla e que abrange desde qualidade da arquitetura de software até qualidade no processo. Este trabalho teve como objetivo central apresentar um estudo sobre uma arquitetura de qualidade dentro de alguns orgãos, tendo como os principais pilares três áreas comuns da engenharia de software, gerência de configuração, integração contínua e análise estática de código. Uma arquitetura próxima a essa vem sendo trabalhada dentro de alguns órgãos públicos do governo federal, entre eles o Tribunal de Contas da União o qual tem mostrado os melhores resultados nesta área. O problema encontrado atualmente está na falta de um acompanhamento na qualidade dos chamados softwares legados, softwares que são produzidos dentro/para o órgão e que passado um tempo ainda estão em atividade.
+	Utilizou-se da revisão sistemática para que se pudesse abranger o maior número de artigos nas principais bases de pesquisa. Uma vez encontrados os artigos, catalogou-se quanto à área de abrangência do artigo. Ao fim do artigo conclui-se que a arquitetura ao que toda a literatura indica deve ser feita com três ferramentas uma para gerenciar cada área, sendo elas o Git para controle de versão, Jenkins para integração continua e SonarQube para analise estática de código.
+
+	
+
+	
+\section{Problema de Pesquisa}
+	O principal produto da engenharia de software é o software, contudo o que tem se vivenciado na realidade brasileira de computação é que o software que está sendo entregue é um software precário e de baixa qualidade. Por ser uma palavra abstrata, o conceito de qualidade é bem amplo, porém o termo qualidade normalmente está associado a uma medida relativa, essa qualidade pode ser entendida como “conformidade às especificações”. Conceituando dessa forma, a não conformidade às especificação é igual a ausência de qualidade [1].
+	
+	
+	
+
+	
+\section{Justificativa}
+
+	A utilização da Robótica como uma forma de ensinar programação em escolas e faculdades, a chamada Robótica Educacional, \cite{roboticaEducacionalAulasMatematica}, traz alguns benefícios para o aluno. Conforme colocado pelos autores \cite{teachingWithRoboticKit}, \cite{roboticEducationBasedLego}, \cite{roboticaEducacionalAulasMatematica} e \cite{evaluationRoboticEducationScale}, alguns desses benefícios são: maior interesse pelos conteúdos estudados em aula, capacidade de trabalhar em grupo, aplicação prática do conhecimento teórico e multidisciplinaridade. A Universidade de Brasília utiliza esta abordagem de ensino/aprendizagem durante a disciplina de Introdução à Robótica Educacional, ministrada pelo professor Dr. Maurício Serrano. Na disciplina, são utilizados os Kits de robótica Mindstorms, da Lego, para desenvolvimento de soluções dos problemas presentes em um tapete de missões. A organização da disciplina se inspira nos campeonatos de robótica, como \cite{ciber-rato} ou \cite{roboBulldozerIV}, por exemplo. Neste tipo de campeonado, a navegação é o quesito mais importante \cite{ciber-rato}, a qual deve possuir a menor margem de erro possível para solucionar as missões.
+
+	As missões utilizadas durante a disciplina são referentes a problemas recorrentes no contexto da robótica mundial. Porém, a solução dos mesmos é uma adaptação das técnicas existentes para o contexto limitado da disciplina, onde são utilizadas apenas ferramentas presentes no kit \textit{Mindstorms} da Lego. Esta adaptação exige um conhecimento amplo sobre a técnica, para que o estudante possa identificar características relevantes e adaptá-las de acordo com o \textit{hardware} disponível.
+
+	%Boa parte dos problemas encontrados pelos estudantes durante a realização de uma missão da disciplina se refere a auto-localização do robô. Desse modo, a identificação de uma técnica que solucione o problema de auto-localização utilizando as ferramentas disponíveis na disciplina trará novas opções aos alunos, que serão inseridos no contexto do problema de SLAM.
+
+	\section{Objetivos}
+
+	\subsection{Objetivos Gerais} % (fold)
+	\label{sub:objetivos_gerais}
+	
+		Adaptar técnicas de resolução do problema de SLAM para o contexto da Robótica Educacional, utilizando os kits de robótica \textit{Mindstorms} da Lego.
+
+	% subsection objetivos_gerais (end)
+
+	\subsection{Objetivos Específicos} % (fold)
+	\label{sub:objetivos_específicos}
+
+		O Objetivo Geral pode ser dividido em quatro objetivos específicos, que vão desde a solução do problema até a adaptação da mesma pro contexto educacional, como são apresentados a seguir.
+		 
+	\begin{itemize}
+		\item Resolução do problema de SLAM;
+		\item Adaptação pro contexto educacional;
+		\item Garantia da qualidade da solução (Visão da Engenharia de Software); 
+	\end{itemize}
+	
+	% subsection objetivos_específicos (end)
