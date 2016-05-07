@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.4.27)  4 MAY 2016 10:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.4.27)  4 MAY 2016 11:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1088,43 +1088,43 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (./editaveis/proposta.tex
 
 LaTeX Warning: Citation `roboticaEducacionalAulasMatematica' on page 7 undefine
-d on input line 20.
+d on input line 21.
 
 
 LaTeX Warning: Citation `teachingWithRoboticKit' on page 7 undefined on input l
-ine 20.
+ine 21.
 
 
 LaTeX Warning: Citation `roboticEducationBasedLego' on page 7 undefined on inpu
-t line 20.
+t line 21.
 
 
 LaTeX Warning: Citation `roboticaEducacionalAulasMatematica' on page 7 undefine
-d on input line 20.
+d on input line 21.
 
 
 LaTeX Warning: Citation `evaluationRoboticEducationScale' on page 7 undefined o
-n input line 20.
+n input line 21.
 
 
-LaTeX Warning: Citation `ciber-rato' on page 7 undefined on input line 20.
+LaTeX Warning: Citation `ciber-rato' on page 7 undefined on input line 21.
 
 
-LaTeX Warning: Citation `roboBulldozerIV' on page 7 undefined on input line 20.
+LaTeX Warning: Citation `roboBulldozerIV' on page 7 undefined on input line 21.
 
 
 
-LaTeX Warning: Citation `ciber-rato' on page 7 undefined on input line 20.
+LaTeX Warning: Citation `ciber-rato' on page 7 undefined on input line 21.
 
 [7
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 41.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 42.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 41.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 42.
 )
 (./editaveis/metodologia.tex [8]
 
@@ -1157,15 +1157,12 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 49.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 49.
  ) 
 Here is how much of TeX's memory you used:
  12412 strings out of 493089
  182033 string characters out of 6134842
- 305404 words of memory out of 5000000
+ 305399 words of memory out of 5000000
  15620 multiletter control sequences out of 15000+600000
  53219 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1180,7 +1177,7 @@ ype1/public/lm/lmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public
 /local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/tex
 live/2015/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/201
 5/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on proposta.pdf (11 pages, 303483 bytes).
+Output written on proposta.pdf (11 pages, 303972 bytes).
 PDF statistics:
  162 PDF objects out of 1000 (max. 8388607)
  131 compressed objects within 2 object streams
