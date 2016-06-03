@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.4.27)  7 MAY 2016 17:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.4.27)  3 JUN 2016 10:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1036,22 +1036,7 @@ Package pdftex.def Info: figuras/capa-eps-converted-to.pdf used on input line 1
 as/capa-eps-converted-to.pdf>]
 [2
 
-] (./fixos/listasAutomaticas.tex (./proposta.lof)pdfTeX warning (ext4): destina
-tion with the same identifier (name{page.1}) has been already used, duplicate i
-gnored
-<to be read again> 
-                   \relax 
-l.3 \cleardoublepage
-                     [1
-
-]pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
- been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.3 \cleardoublepage
-                     [2
-
-] (./proposta.lot
+] (./fixos/listasAutomaticas.tex (./proposta.lof
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 2.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/ot1lmr.fd
@@ -1079,39 +1064,60 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 2.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 2.
-)
-[3] [4
+)pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.3 \cleardoublepage
+                     [1
 
-]) (./fixos/indiceAutomatico.tex (./proposta.toc) [5] [6
+]pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.3 \cleardoublepage
+                     [2
+
+] (./proposta.lot) [3] [4
 
 ])
-(./editaveis/proposta.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+(./fixos/indiceAutomatico.tex (./proposta.toc) [5] [6
 
- [7
+])
+(./editaveis/proposta.tex [7
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 33.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 44.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 33.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 44.
 )
 (./editaveis/metodologia.tex [8]
+<figuras/TCCMetodologia.pdf, id=85, 1027.84pt x 770.88pt>
+File: figuras/TCCMetodologia.pdf Graphic file (type pdf)
 
-LaTeX Warning: Citation `metodologiaCientifica' on page 9 undefined on input li
-ne 3.
+<use figuras/TCCMetodologia.pdf>
+Package pdftex.def Info: figuras/TCCMetodologia.pdf used on input line 27.
+(pdftex.def)             Requested size: 513.91875pt x 385.43906pt.
+
+Overfull \hbox (58.91875pt too wide) in paragraph at lines 27--28
+ [][] 
+ []
 
 )
 No file proposta.bbl.
 No file proposta.ind.
 
+Package lastpage Warning: Rerun to get the references right on input line 49.
+
+
 AED: lastpage setting LastPage
 [9
 
-]
+] [10 <./figuras/TCCMetodologia.pdf>]
 \tf@lof=\write5
 \openout5 = `proposta.lof'.
 
@@ -1128,20 +1134,20 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 49.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 49.
 
 
-LaTeX Warning: There were undefined references.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 49.
  ) 
 Here is how much of TeX's memory you used:
- 12400 strings out of 493089
- 181663 string characters out of 6134842
- 305698 words of memory out of 5000000
- 15608 multiletter control sequences out of 15000+600000
+ 12417 strings out of 493089
+ 181914 string characters out of 6134842
+ 305617 words of memory out of 5000000
+ 15621 multiletter control sequences out of 15000+600000
  53219 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,13n,38p,910b,483s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
-texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/local/texlive/20
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/lo
+cal/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/20
 15/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2015/texmf-d
 ist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/t
 ype1/public/lm/lmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public
@@ -1150,10 +1156,10 @@ ype1/public/lm/lmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public
 /local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/tex
 live/2015/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/201
 5/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on proposta.pdf (11 pages, 302987 bytes).
+Output written on proposta.pdf (12 pages, 448363 bytes).
 PDF statistics:
- 162 PDF objects out of 1000 (max. 8388607)
- 131 compressed objects within 2 object streams
- 23 named destinations out of 1000 (max. 500000)
- 114 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 277 PDF objects out of 1000 (max. 8388607)
+ 203 compressed objects within 3 object streams
+ 25 named destinations out of 1000 (max. 500000)
+ 119 words of extra memory for PDF output out of 10000 (max. 10000000)
 
